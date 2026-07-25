@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:translateX="21"
+        android:translateY="21">
+        <!-- Table Background Card -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M8,4 C5.79,4 4,5.79 4,8 L4,58 C4,60.21 5.79,62 8,62 L58,62 C60.21,62 62,60.21 62,58 L62,8 C62,5.79 60.21,4 58,4 L8,4 Z" />
+        <!-- Table Header -->
+        <path
+            android:fillColor="#2563EB"
+            android:pathData="M4,8 C4,5.79 5.79,4 8,4 L58,4 C60.21,4 62,5.79 62,8 L62,20 L4,20 L4,8 Z" />
+        <!-- Grid Lines -->
+        <path
+            android:fillColor="#38BDF8"
+            android:pathData="M10,10 H30 V14 H10 Z M34,10 H56 V14 H34 Z M10,26 H26 V30 H10 Z M30,26 H56 V30 H30 Z M10,36 H26 V40 H10 Z M30,36 H56 V40 H30 Z M10,46 H26 V50 H10 Z M30,46 H56 V50 H30 Z" />
+        <!-- Magnifying Glass / Extraction Badge -->
+        <path
+            android:fillColor="#0D9488"
+            android:pathData="M52,38 C44.27,38 38,44.27 38,52 C38,59.73 44.27,66 52,66 C55.3,66 58.33,64.85 60.7,62.93 L68.88,71.12 C69.27,71.51 69.9,71.51 70.29,71.12 L71.12,70.29 C71.51,69.9 71.51,69.27 71.12,68.88 L62.93,60.7 C64.85,58.33 66,55.3 66,52 C66,44.27 59.73,38 52,38 Z M52,43 C56.97,43 61,47.03 61,52 C61,56.97 56.97,61 52,61 C47.03,61 43,56.97 43,52 C43,47.03 47.03,43 52,43 Z" />
+    </group>
+</vector>

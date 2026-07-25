@@ -1,0 +1,6 @@
+{
+  "name": "مستخرج البيانات",
+  "description": "تطبيق استخراج بيانات الطلاب تلقائياً من المواقع وتصديرها إلى أكسل يدعم العربية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
